@@ -124,7 +124,7 @@ link: https://instagram.com/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:tasneemkhan050804@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -192,7 +192,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:tasneemkhan050804@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -226,7 +226,7 @@ link: https://instagram.com/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:tasneemkhan050804@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
